@@ -22,4 +22,4 @@ properties:
   MYSQL_DB_USERNAME: springboot-web
   MYSQL_SPRINGBOOTWEB_PASSWORD:
     vault: MYSQL_SPRINGBOOTWEB_PASSWORD
-  nano: 73
+  nano: 74
